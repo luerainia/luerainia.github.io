@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luerainia.github.io/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/app/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/assets/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/css/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/includes/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/item/luerainia.txt.gz
+Sitemap: https://luerainia.github.io/src/luerainia.txt.gz
